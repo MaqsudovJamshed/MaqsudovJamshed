@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on analyzing Crypto in Trading 
 - 🌱 I’m currently learning SQL, Python and ML to Analyze Data 
