@@ -10,7 +10,7 @@ Previously, I’ve worked on projects that involved sales analysis, marketing op
 
 In my free time, I enjoy a **good workout** 💪, solving **Sudoku puzzles** 🧩, or **playing guitar** 🎸. I’m always up for new challenges and opportunities to learn, and I’m excited about the future of data analytics and its potential to transform industries.
 
-Feel free to connect with me on [**LinkedIn**](www.linkedin.com/in/jamshedmaqsudov) or reach out via **email** at j.maqsudov@outlook.com
+Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/jamshedmaqsudov) or reach out via **email** at j.maqsudov@outlook.com
 
 Check out my first bootcamp project: [**Trading and Investment: Bitcoin**](https://github.com/MaqsudovJamshed/Trading-and-Investing?tab=readme-ov-file#trading-and-investing-project-bitcoin)
 
