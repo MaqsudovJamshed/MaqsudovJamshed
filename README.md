@@ -1,4 +1,4 @@
-## Hi, I am Jamshed 👋
+## About me
 
 Hey there! 👋 
 
