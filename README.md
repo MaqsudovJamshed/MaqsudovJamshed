@@ -8,7 +8,7 @@ Currently, I’m focused on applying my skills in **SQL**🧑‍💻, **Python**
 
 Previously, I’ve worked on projects that involved sales analysis, marketing optimization, and financial forecasting, and I’m always looking for new ways to learn and grow. Whether it’s building interactive dashboards, conducting predictive analyses, or automating reports, I’m excited about using data to make an impact.
 
-In my free time, I enjoy a **good workout** 💪, solving **Sudoku****puzzles** 🧩, or **playing guitar** 🎸. I’m always up for new challenges and opportunities to learn, and I’m excited about the future of data analytics and its potential to transform industries.
+In my free time, I enjoy a **good workout** 💪, solving **Sudoku puzzles** 🧩, or **playing guitar** 🎸. I’m always up for new challenges and opportunities to learn, and I’m excited about the future of data analytics and its potential to transform industries.
 
 Feel free to connect with me on [**LinkedIn**](www.linkedin.com/in/jamshedmaqsudov) or reach out via **email** at j.maqsudov@outlook.com
 
