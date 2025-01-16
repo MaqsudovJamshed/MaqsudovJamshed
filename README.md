@@ -1,6 +1,6 @@
 ## About me
 
-Hey there! 👋  
+Hey there! 👋 
 
 I’m Jamshed Maqsudov, a passionate and driven Data Analyst 📊 with a knack for **problem-solving**🛠️ and a deep **curiosity**🧐 for the world of **data**📊 and **technology**🤖. With a background in International Relations 🌍, I transitioned into the exciting world of data analytics through the [Le Wagon Data Analytics Bootcamp](https://www.lewagon.com/data-analytics-course) <img src="le_lewagon_logo.png" alt="Le Wagon Logo" width="25"> 🎓.
 
