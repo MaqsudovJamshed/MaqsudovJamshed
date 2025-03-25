@@ -3,7 +3,7 @@
 Hey there! 👋 
 
 I’m Jamshed Maqsudov, a passionate and driven Data Analyst 📊 with a knack for 
-**problem-solving**🛠️ and a 
+**problem-solving**🛠️ and a  
 **deep curiosity**🧐 
 
 for the world of **data**📊 and **technology**🤖. 
