@@ -16,13 +16,13 @@ I currently work as a bartender while building my portfolio, dedicating time eac
 ---
 
 📊 **Highlighted Projects**  
-- ✅ [Personal Performance Dashboard](https://github.com/username/performance-dashboard)  
+- ✅ [Personal Performance Dashboard](https://github.com/MaqsudovJamshed/personal-performance-analytics-dashboard)  
   Built a dynamic Excel dashboard to track productivity and deep work sessions, with automated metrics and visualizations.  
 
 - 🚧 [Airbnb Data Analysis](https://github.com/MaqsudovJamshed/Airbnb_Lisbon_project_2025)  
   Conducting exploratory data analysis (EDA) on Airbnb listings to uncover pricing patterns, availability trends, and review insights.  
 
-- ✅ [Trading & Investment – Bitcoin Project](https://github.com/username/bitcoin-project)  
+- ✅ [Trading & Investment – Bitcoin Project](https://github.com/MaqsudovJamshed/Trading-and-Investing)  
   Collaborated with a team during a bootcamp to analyze Bitcoin trading data, identify investment trends, and present findings.  
 
 ---
