@@ -34,5 +34,5 @@ I currently work as a bartender while building my portfolio, dedicating time eac
 ---
 
 📬 **Let’s Connect**  
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- LinkedIn: [Jamshed Maqsudov](https://linkedin.com/in/jamshedmaqsudov)  
 - Email: j.maqsudov@outlook.com  
